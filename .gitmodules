@@ -1,0 +1,9 @@
+[submodule "siren"]
+	path = siren
+	url = /home/raman/Siren (copy)/Ionic/siren/
+[submodule "Ionic/siren-ionic"]
+	path = Ionic/siren-ionic
+	url = /home/raman/Siren (copy)/Ionic/siren/
+[submodule "Rails/siren-rails"]
+	path = Rails/siren-rails
+	url = /home/raman/Siren (copy)/Rails/siren/
