@@ -1,0 +1,6 @@
+[submodule "Ionic/siren-ionic"]
+	path = Ionic/siren-ionic
+	url = git@github.com:ramanbedi1989/siren-ionic.git
+[submodule "Rails/siren-rails"]
+	path = Rails/siren-rails
+	url = git@github.com:ramanbedi1989/siren-rails.git
